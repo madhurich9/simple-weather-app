@@ -7,7 +7,7 @@ var city=$("#city").val();
     // $("#data").html("data"); 
     
     var api_key = "4e63a5f1c775602bc41f56a0dab07b73";
-    $.get("http://api.openweathermap.org/data/2.5/weather?q="+city+"&appid="+api_key,function(response){
+    $.get("https://api.openweathermap.org/data/2.5/weather?q="+city+"&appid="+api_key,function(response){
         console.log(response);
         
         
