@@ -1,0 +1,23 @@
+.body{
+	text-align:center;
+	background-color:#7FDBFF;
+	border:2px solid #0074D9;
+	margin:10%;
+	padding:40px;
+	color:ghostwhite;
+}
+#data1{
+color:blue;
+ text-align:center;
+ font-size:3em;
+}
+#data{
+	color:black;
+	font-size:2em;
+}
+#city{
+    color:blue;
+}
+button{
+    background-color:mediumblue;
+}
